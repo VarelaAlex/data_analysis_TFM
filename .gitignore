@@ -147,3 +147,4 @@ notebook/templates/*.html
 *.egg-info
 .idea
 data/
+etc/
